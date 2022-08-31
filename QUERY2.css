@@ -1,0 +1,15 @@
+@media (max-width: 1200px) {/* rules here apply to devices from 993px to 1200px (inclusive) */}
+body{
+    background-color: aqua;
+}
+.img1{
+    width: 20%;
+}
+.img2, .img3{
+    width: 40%;
+}
+@media (max-width: 992px) {	/* rules here apply to devices from 769px to 992px (inclusive) */}
+@media (max-width: 768px) {/* rules here apply to devices from 0px or 425px to 768px (inclusive) */}
+
+/* You may also apply this: */
+@media (max-width: 425px) {/* rules here apply to devices from 0px to 425px (inclusive) */}

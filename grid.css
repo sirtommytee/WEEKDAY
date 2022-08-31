@@ -1,0 +1,13 @@
+.div1{
+    display: grid;
+    background-color: skyblue;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 7px;
+    grid-row-gap: 6px;
+    }
+
+    .backdiv{
+        background-color: navy;
+        color: white;
+    }

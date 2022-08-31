@@ -1,0 +1,73 @@
+body {
+    /* background-color: black; */
+    color: white;
+    font-weight: 600;
+}
+div#bigdiv {
+    width: 70%;
+    margin: 50px auto;
+    height: 400px;
+    background: url(wildlife2.jpg);
+    background-size:contain;
+    padding-top: 30px;
+   
+
+
+}
+div.firstdiv{
+    height: 50%;
+}
+div.firstdiv ul {
+    /* display:flex ; */
+    width: 100%;
+    height:100%;
+    white-space: nowrap;
+}
+div.firstdiv ul li {
+    display: inline-block;
+    /* flex: 1 1 0; */
+    list-style-type: none;
+    width: 17%;
+    text-align: center;
+    margin-left: 2%;
+    
+}
+div.firstdiv ul li p{
+    width: 40%;
+}
+div.firstdiv ul li p img{
+    width: 70%;
+    border-radius: 300px;
+}
+
+div.seconddiv ul {
+    width: 100%;
+    height:100%;
+    white-space: nowrap;
+
+}
+div.seconddiv ul li {
+    display: inline-block;
+    /* flex: 1 1 0; */
+    list-style-type: none;
+    width: 17%;
+    text-align: center;
+    margin-left: 2%;
+    
+}
+div.seconddiv ul li p{
+    width: 40%;
+}
+div.seconddiv ul li p img{
+    width: 70%;
+     border-radius: 300px;
+}
+div.seconddiv ul li p.paypal img{
+    width: 100%;
+}
+div.seconddiv ul li p.whatsapp img{
+    width: 100%;
+}
+
+
+

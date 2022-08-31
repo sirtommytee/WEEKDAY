@@ -1,0 +1,64 @@
+.firsthead{
+    color: rgb(87, 196, 159);
+}
+.secondheader{
+    color: yellow;
+}
+.thirdheader{
+    color: white;
+}
+.paragraph{
+    color: white;
+    font-size: 30px;
+}
+.firstparagraph{
+    color: white;
+}
+.fourthheader{
+    color: white;
+}
+.secondparagraph{
+    color: white;
+}
+button{
+    color: white;
+    background-color: yellow;
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    border:none;
+   
+}
+.firstdiv{
+    background-color: white;
+    padding: 15px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 10px;
+
+    
+}
+.generaldiv{
+    background-color: whitesmoke;
+    padding: 500px;
+    width: 300px;
+    
+}
+.seconddiv{
+    background-color: aqua;
+    width: 300px;
+    padding: 15px;
+    font-size: 10px;
+}
+.thirddiv{
+    background-color: aquamarine;
+    width: 300px;
+    padding: 15px;
+    font-size: 10px;
+}
+.monthly{
+    color: rgb(230, 220, 220);
+    font-size: 20px;
+}
+    
+}

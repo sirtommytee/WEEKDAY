@@ -1,0 +1,23 @@
+.firstdiv{
+background-image: url(./images/n4.jpg);
+height: 200px;
+background-repeat: no-repeat;
+}
+.seconddiv{
+    background-image: url(./images/n2.jpg);
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    size: 30%;
+}
+
+
+
+
+.experiment1{
+    /* background-color: skyblue; */
+}
+.experiment2{
+    /* background-color: brown; */
+}
+

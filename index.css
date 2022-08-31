@@ -1,0 +1,123 @@
+
+p{
+    color: chocolate;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    color:indigo;
+    background-color: black;
+}
+ h1{background-color: rgb(29, 184, 184);border: dashed 4px blue ;
+
+}
+first_div{
+text-align: center;
+width: 20%;
+margin-left: 50%;
+}
+.firstheader{
+    margin-left: 200px;
+}
+.paragraph{
+    color: purple;
+}
+#thanks{
+    font-size: 20px;
+    color: yellow;
+}
+table{
+    border: 2px solid rgb(235, 43, 43);
+    display: inline;
+}
+.anothertable{
+    background-color: rgb(212, 184, 89);
+}
+.tabular{
+    border-radius: 18px;
+}
+.first_inp{
+    background-color: rgb(0, 255, 0);
+    width: 15%;
+    height: 32px;
+    border-radius: 11px;
+    border: none;
+    box-shadow: 2px 4px 5px grey;
+    /* left down blur */
+}
+.para{
+    background-color: rgb(40, 44, 40);
+    display: inline;
+}
+.mother{
+    background-color: tomato;
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.child_1{
+    background-color:turquoise ;
+    width: 40%;
+}
+.child_2{
+    background-color: aqua;
+    width: 40%;
+}
+.newdiv{
+    width: 60%;
+    background-color: palevioletred;
+    display: grid;
+        /* grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        OR */
+        grid-template-columns: repeat(4, 1fr) ;
+        grid-template-rows: repeat(3, 1fr) ;
+    }
+    .div1{
+        width: 20%;
+        background-color: rgb(214, 18, 18);
+    }
+    .div2{
+        width: 20%;
+        background-color: rgb(45, 10, 170);
+    }
+    
+.div3{
+    width: 20%;
+    background-color: rgb(119, 9, 75);
+}
+.div4{
+    width: 20%;
+    background-color: rgb(128, 123, 63);
+}
+.div5{
+    width: 20%;
+    background-color: blueviolet;
+}
+.div6{
+    width: 20%;
+    background-color: rgb(143, 238, 20);
+}
+.div7{
+    width: 20%;
+    background-color: aqua;
+}
+.div8{
+    width: 20%;
+    background-color: goldenrod;   
+}
+
+.pos_div{
+    background-color: wheat;
+    width: 200px;
+    height: 100px;
+    position: relative;
+    bottom: 50px;
+    left: 280px;
+}
+.first{
+position: relati
+height: 100px;
+}

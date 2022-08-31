@@ -1,0 +1,43 @@
+.rel{
+    position: relative;
+    background-color: blue;
+    height: 250px;
+    width: 200px;
+    padding-left: 120px;
+}
+
+.abs{
+    background-color: aqua;
+    height: 50px;
+    position: absolute;
+    bottom: 270px;
+    left: 200px;
+
+}
+.fix{
+    position: fixed;
+    left: 85%;
+}
+.stick{
+    position: sticky;
+    top: 0px;
+}
+p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fix{
+position: fixed;
+left: 85%
